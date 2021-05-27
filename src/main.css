@@ -13,8 +13,6 @@ body {
 }
 .gallery-item {
   list-style: none;
-}
-.gallery-item:not(:nth-child(4n)) {
   margin-right: 20px;
   margin-bottom: 40px;
 }
